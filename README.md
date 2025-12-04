@@ -1,6 +1,6 @@
 # syrtis_flutter_client
 
-Version: 0.0.4
+Version: 0.0.5
 
 Helper utilities for Flutter projects.
 
