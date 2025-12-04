@@ -1,0 +1,18 @@
+dependencies:
+  flutter:
+    sdk: flutter
+description: Helper utilities for Flutter projects.
+dev_dependencies:
+  flutter_lints: ^3.0.2
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+environment:
+  flutter: '>=3.13.0'
+  sdk: '>=3.1.0 <4.0.0'
+flutter: null
+homepage: https://github.com/wexample/flutter-helpers
+issue_tracker: https://github.com/wexample/flutter-helpers/issues
+name: wexample_flutter_helpers
+repository: https://github.com/wexample/flutter-helpers
+version: 0.0.25
