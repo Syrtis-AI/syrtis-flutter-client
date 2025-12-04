@@ -1,5 +1,5 @@
 git:
   main_deployment_remote_name: github
 global:
-  name: syrtis_flutter_helpers
+  name: syrtis_flutter_client
   version: 0.0.3
