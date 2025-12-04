@@ -2,4 +2,4 @@ git:
   main_deployment_remote_name: github
 global:
   name: syrtis_flutter_helpers
-  version: 0.0.1
+  version: 0.0.2
