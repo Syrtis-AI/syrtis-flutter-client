@@ -1,4 +1,4 @@
-import 'package:wexample_flutter_client/helpers.dart';
+import 'package:syrtis_flutter_client/helpers.dart';
 import 'package:test/test.dart';
 
 void main() {
