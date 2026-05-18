@@ -3,3 +3,5 @@ git:
 global:
   name: syrtis_flutter_client
   version: 0.0.6
+wex:
+  version: 6.0.21
