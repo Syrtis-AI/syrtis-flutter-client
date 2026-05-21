@@ -1,7 +1,8 @@
 git:
   main_deployment_remote_name: github
+  publication_strategy: main_push
 global:
   name: syrtis_flutter_client
   version: 0.0.6
 wex:
-  version: 6.0.21
+  version: 6.0.89
